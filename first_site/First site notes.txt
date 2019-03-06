@@ -1,0 +1,11 @@
+Create a layout using a series of tags, container tags can have other tags within them. containers for content or othe html tags
+
+html tag, all of the html code will go within html
+
+head can define the title of the document, a description, an image, import resources, head is meta data about the file
+
+body is all the content that goes in the web browser
+
+all tags are indented within other tags
+
+title tag holds title of website in tab 
